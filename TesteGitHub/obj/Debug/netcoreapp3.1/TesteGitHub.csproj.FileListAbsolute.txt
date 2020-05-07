@@ -1,0 +1,13 @@
+C:\Users\rafael.gomes\Desktop\VisualStudio\GITHUB\TesteGitHub\TesteGitHub\bin\Debug\netcoreapp3.1\TesteGitHub.exe
+C:\Users\rafael.gomes\Desktop\VisualStudio\GITHUB\TesteGitHub\TesteGitHub\bin\Debug\netcoreapp3.1\TesteGitHub.deps.json
+C:\Users\rafael.gomes\Desktop\VisualStudio\GITHUB\TesteGitHub\TesteGitHub\bin\Debug\netcoreapp3.1\TesteGitHub.runtimeconfig.json
+C:\Users\rafael.gomes\Desktop\VisualStudio\GITHUB\TesteGitHub\TesteGitHub\bin\Debug\netcoreapp3.1\TesteGitHub.runtimeconfig.dev.json
+C:\Users\rafael.gomes\Desktop\VisualStudio\GITHUB\TesteGitHub\TesteGitHub\bin\Debug\netcoreapp3.1\TesteGitHub.dll
+C:\Users\rafael.gomes\Desktop\VisualStudio\GITHUB\TesteGitHub\TesteGitHub\bin\Debug\netcoreapp3.1\TesteGitHub.pdb
+C:\Users\rafael.gomes\Desktop\VisualStudio\GITHUB\TesteGitHub\TesteGitHub\obj\Debug\netcoreapp3.1\TesteGitHub.csprojAssemblyReference.cache
+C:\Users\rafael.gomes\Desktop\VisualStudio\GITHUB\TesteGitHub\TesteGitHub\obj\Debug\netcoreapp3.1\TesteGitHub.csproj.CoreCompileInputs.cache
+C:\Users\rafael.gomes\Desktop\VisualStudio\GITHUB\TesteGitHub\TesteGitHub\obj\Debug\netcoreapp3.1\TesteGitHub.AssemblyInfoInputs.cache
+C:\Users\rafael.gomes\Desktop\VisualStudio\GITHUB\TesteGitHub\TesteGitHub\obj\Debug\netcoreapp3.1\TesteGitHub.AssemblyInfo.cs
+C:\Users\rafael.gomes\Desktop\VisualStudio\GITHUB\TesteGitHub\TesteGitHub\obj\Debug\netcoreapp3.1\TesteGitHub.dll
+C:\Users\rafael.gomes\Desktop\VisualStudio\GITHUB\TesteGitHub\TesteGitHub\obj\Debug\netcoreapp3.1\TesteGitHub.pdb
+C:\Users\rafael.gomes\Desktop\VisualStudio\GITHUB\TesteGitHub\TesteGitHub\obj\Debug\netcoreapp3.1\TesteGitHub.genruntimeconfig.cache
